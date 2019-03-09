@@ -31,3 +31,11 @@ form{
   background-color: #CCCCCC !important;
   text-align: center;
 }
+choices img{
+  width: 50px;
+  height: auto;
+}
+pho img{
+  width: 200px;
+  height: 400px;
+}
